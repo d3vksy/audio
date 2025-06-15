@@ -75,6 +75,7 @@ export default function App() {
                     >
                         로그인
                     </button>
+                    <p>Made. 김수윤</p>
                 </div>
             ) : (
                 <div className="space-y-6">
